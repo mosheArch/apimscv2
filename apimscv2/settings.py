@@ -43,7 +43,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'rest_framework.authtoken',
-    'django_rest_passwordreset'
+    'django_rest_passwordreset',
+    'core',
+    'cuestionarioEdimburgo',
+    'datosSociodemograficos',
+    'users',
+    'profesionales'
 ]
 
 MIDDLEWARE = [
